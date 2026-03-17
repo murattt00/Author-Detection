@@ -1,0 +1,24 @@
+If you've ever had a claim with a health insurance company, you typically get a statement in the mail showing what and how something has been paid (or not paid). These statements are called Explanations of Benefits or EOBs for short. Most of them say, "This is Not a Bill". Then why do they cause so many headaches? Sure seems like a bill to me. In my practice, I have found that these "Explanations" are anything but clear and need explaining. In other words, the "Explanation" part needs explaining.
+
+While EOB's appearances vary between insurance companies, they all have items in common. They may be placed in different areas on the form, but they are:
+
+1) The Primary Insured's name
+2) The Patient's name
+3) The date(s) of service
+4) The Provider's name
+5) The billable amount
+6) the negotiated rate and
+7) Patient Responsibility
+
+...along with various codes that show the disposition of the claim and your total claims paid-to-date (for deductible and out-of-pocket purposes). Each of these bear some explanation. 
+
+The Primary Insured's name may or may not be your name. If you are a dependent on your spouse's policy, even though you may be the patient, your spouse's name will appear as the Primary Insured. The Patient is the person who received care. Date of Service is when the procedure, exam, test, etc. was done. The Provider's name is the person who is sending the insurance company a bill. This may not be who treated you. Oftentimes separate facilities that you never remember going to will show up on an EOB. That's because a doctor may send to a third-party your labwork, who then bills your insurance company. Many times inpatient hospital bills are inflated; doctor's charges for a doctor your nurse talked to, $150 for two tylenol, supplies that weren't used and even double-billing are common. Since the insurance company is paying for most of these, people may not care, which contributes to our higher insurance rates. 
+
+If you find a mistake in your bill, some insurance companies will give you half of the savings they receive! Not too bad. The Billable Amount is what the provider would normally charge in the absence of insurance. Some people think that providers over-inflate these charges...some do, but not for the reasons we think. Most of the time, people can't afford these charges without insurance. So, the insurance company gets to write off the entire amount. A higher amount equals a higher tax break. Those that can pay the higher charges help to subsidize those that can't pay. Next comes the Negotiated Rate. It may be called Discounted Rate or Not Covered Amount on the EOB. This amount is what the insurance company is reducing the bill by because of a contractual relationship with the providers. So, while the negotiated amount may have you envisioning the doctor and insurance company bartering like at your neighbor's garage sale, that's not the case. Not Covered Amount is a terrible phrase that usually gets people sweating. (Whatya mean it's not covered?). All of them mean the discounted amount that is taken off your bill. 
+
+The area to be concerned about is the Member or Patient Responsibility amount. This is the amount you owe. If you have a copay, that may be shown there. If you've already paid it, don't worry. They're simply letting you know that your portion of the bill is your copay. They have no way of checking whether you paid the provider, nor do they care. Other amounts may be all or a portion of your deductible or coinsurance which is as it should be (see my March 19th column, "Health Care Matters, Vol 2 - The ‘Ins and Outs' of PPO Plans" for a greater explanation of coinsurance). What you DON'T want to see is an amount due from you because of a denied claim. That's where the codes come in. You usually can match the code up with a term listed in a code key on the bill. If it's not paid, it may be something that can be fixed with a phone call. The most common denial is usually seen in the first six months on a plan...the dreaded 'pre-existing' condition code. With insurance companies, if they don't have a Certificate of Creditable coverage on file for you (a form that shows that you had previous coverage), the insurance company will deny a claim until you can prove you didn't have the condition before or can provide the certificate. Typically doctor's records will need to be sent to the insurance company.
+
+These are just some of the more common reasons for a claim not to be paid. Next month we'll tackle how to handle these common instances so that you can get them paid as well as what to do when a claim is summarily denied and you take issue with it.
+
+Until next time, stay healthy!
+

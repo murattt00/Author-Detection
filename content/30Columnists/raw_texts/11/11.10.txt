@@ -1,0 +1,32 @@
+A mitten worn by patients could save lives by speeding up the diagnosis of heart attacks. 
+
+The new invention, which resembles an oven glove, is put on the patient's left hand for them to hold against their chest. 
+Tiny sensors in the material pick up electrical activity in the heart and feed the results back to a portable monitor. 
+ 
+This allows paramedics called out to someone who has collapsed with chest pain to immediately see if they have suffered a heart attack and need to be taken to hospital.
+Called PhysioGlove, the new device is a quicker and more convenient way of performing a vital heart test called an electrocardiogram or ECG. 
+Every year, around 270,000 people in Britain suffer a heart attack, and coronary disease remains Britain's biggest killer. 
+For many years, ECGs have been one of the main ways that doctors check for heart disease. 
+The test, which involves attaching up to ten electrodes to the patient's chest, is used for both routine testing and in emergency situations. 
+For example, a patient who is at risk of heart disease because they are overweight, smoke or have a family history of the disease, may be referred by their GP for an exercise ECG. 
+ 
+This means they are wired up to an ECG machine while walking on a treadmill. The electrodes measure the electrical activity of the heart under stress to look for signs of damage. 
+But ECGs are also frequently used in 999 call-outs when a patient has a suspected heart attack. 
+The problem is medical staff need to be highly trained to ensure all ten electrodes are placed in exactly the right position on the body. 
+If one of the wires is a few millimetres out of place, it can give a false reading, meaning a heart attack could be missed altogether. 
+Hairy skin also has to be shaved before the electrode 'pads' can be attached. 
+Even then, they can come unstuck. 
+Worse still, the cables often become tangled or broken - eating into the little time ambulance staff have to perform life-saving checks. 
+The PhysioGlove, developed by an American company called Commwell Inc, based in Illinois, could trim vital seconds off the process. 
+The manufacturer claims it can perform a full ECG in less than a minute, roughly a tenth of the time it can take for a conventional test. 
+Already approved for use in the UK and Europe, the glove looks like a standard oven glove, but it has electrodes fixed into the material in such a way that when the hand is placed over the chest, it picks up electrical activity in the right area. 
+The patient first lies flat, then places their left hand and arm across their chest, keeping the elbow tucked into their body in what Commwell Inc describes as a 'pledge of allegiance' style. 
+By pressing down on the skin, the patient ensures there is good contact with the electrodes. 
+
+The signals are then fed to a monitor connected to the glove, which gives an instant reading on the heart's electrical activity. 
+A spokesman for Commwell Inc said: 'The glove is in alignment with the correct anatomical positions needed to measure electrical activity. It can be performed by almost anybody. There is no need for special training.' 
+Ellen Mason, cardiac nurse with the British Heart Foundation, said if the glove works as claimed, it could improve the ECG process. 
+
+'It could speed it up and that would be good news, especially if someone has had a heart attack,' she added. 'At the moment, it takes a while to place all the wires on the chest, and they can get broken and twisted.' 
+But she warned that it's not clear how the glove, which is a standard size, will work on patients who differ considerably in build. 
+'The placement of the electrodes is absolutely crucial to getting the ECG right. I would be really surprised if it worked on a man with a 46in chest and a woman with a 32in chest.' 

@@ -1,0 +1,51 @@
+After his annual physical, a middle-age man is told that his PSA level has jumped to 2.3 after having been stable for years at 1.5. Should he be alarmed? 
+
+
+Maybe and maybe not. The PSA test, as few men older than 40 need to be told, is widely used as a screening tool for prostate cancer. But the test is controversial, and for good reason.
+
+For one thing, the cancer itself is highly variable. As many as 15 percent of 50-year-old men will be given diagnoses of prostate cancer over the next 30 years. But 1.4 percent will die of the disease in that time, a 10-fold difference that shows that the cancer is usually not fatal. By age 85, more than three-fourths of men have evidence of prostate cancer; many have lived with the disease for more than 10 years. 
+
+In addition, PSA levels often fluctuate as much as 30 percent for unknown reasons and can increase for reasons other than cancer, challenging physicians who have to determine how to proceed when a man’s PSA level goes up.
+
+“There’s a lot of background noise” associated with PSA testing, said Dr. Peter T. Scardino, chief of urology at the Memorial Sloan-Kettering Cancer Center in New York and author of “Dr. Peter Scardino’s Prostate Book” (Penguin, 2005). Still, as evidence of the value of the test, he noted that the United States has since 1992 recorded a 30 percent decline in age-specific mortality from prostate cancer, “despite no dramatic new therapy for advanced disease.”
+
+Factors Behind the Measurement
+
+PSA stands for prostate-specific antigen, a substance produced only by the prostate gland and found in the ejaculate. Its purpose is to liquefy the semen to release sperm, freeing them to fertilize an egg. The PSA level, measured in nanograms per milliliter of blood, reflects how much of this antigen is being produced and released into the bloodstream. The larger a man’s prostate, the more PSA is produced, which makes the test very confusing in older men with benign enlargement of this gland.
+
+Aside from cancer and prostatic growth with age, factors that can change PSA measurements include inflammation or infection of the prostate; a decline in testosterone levels or the drug finasteride, taken for hair loss, both of which lower the PSA; and variations in laboratory assays and in the inherent biology of a person. Biological variability can result in as much as a 15 percent difference between readings, and in nearly half of men with an abnormal PSA, the test will normalize in one to four years without any treatment. 
+
+But Dr. H. Ballentine Carter, a urologist at the Johns Hopkins School of Medicine, notes that no significant changes in PSA result from recent sexual intercourse or ejaculation, a digital rectal examination or riding a bicycle. “Even long-distance bikers do not have prostate trauma” that causes their PSA to increase, Dr. Carter said. 
+
+Current guidelines recommend that all men have an annual PSA test starting at age 50 and that biopsies be conducted if the level exceeds 4 or if a “significant rise” occurs between two tests. The guidelines also suggest limiting screening to men with more than a 10-year life expectancy.
+
+This approach has resulted in many biopsies in men who did not have cancer — about 70 percent of those with elevated PSAs are cancer free — and debilitating prostate surgery in men with cancers that would never have become a threat in their remaining years of life.
+
+On the Way: New Guidelines
+
+Based on recent studies, the American Urological Association will soon release revised guidelines that, experts hope, will reduce unnecessary biopsies and prostate surgeries, which even in the best hands can leave a man impotent and incontinent. The revised guidelines are expected to reduce the cost of screening, the cost per life saved and overall deaths from prostate cancer.
+
+The new guidelines will no longer rely on a single reading. Rather, they will suggest that doctors focus on changes in levels over time. They will also suggest that testing start at 40 to obtain a baseline measurement, with the test repeated at 45 and 50, after which it should be given annually until 70.
+
+“If a 70-year-old man has a PSA history that hasn’t changed over the years, maybe he doesn’t need further testing,” Dr. Carter suggested. “PSA testing of men over 70 is not rational.” 
+
+He pointed to a Scandinavian study showing that among men older than 65, to prevent one death from prostate cancer over 10 years, 330 men would have to have prostate surgery.
+
+“This has created a huge dilemma in urology,” Dr. Carter said. “We don’t want to miss the possibility of a life-threatening disease, but we end up diagnosing and treating disease that would never have caused harm.”
+
+The new guidelines will lower the PSA level at which a biopsy should be considered, because, as Dr. Carter put it, “there’s no level below which we can tell a man he doesn’t have prostate cancer or life-threatening prostate cancer.”
+
+As one important trial showed, among men with a very low PSA — that is, a reading below the current cutoff of 4 — biopsies found that 15 percent had prostate cancer. Among that 15 percent, Dr. Carter said, 15 percent had high-grade, potentially life-threatening cancers. That means that 2.25 percent of the total number of men with a PSA less than 4 had life-threatening cancers.
+
+But, he added, “If we biopsied every man with a PSA below 4, we’d be looking at a sea of cancers that would never grow to be life threatening.”
+
+Getting Enough Data
+
+These facts and the results of a recent study by Dr. Carter, among others, indicated that rather than acting on the basis of a single PSA test, the rate of change in levels over time is a better indicator of who might have a serious cancer. This rate, known as PSA velocity, will be part of the new guidelines, which will suggest that in men with low readings, doctors consider the changes in levels over the course of three measurements.
+
+“We need at least 1 ½ to 2 years’ worth of data” to make a meaningful judgment about how to proceed, Dr. Carter said.
+
+He explained that in men with an initially high level — say 10 or higher— velocity is not an issue. For them, if other factors like prostate infection are not the cause of the high level, a biopsy is in order. But in men with a PSA from 0 to 4, knowing the velocity of changes can add useful information, he said.
+
+Another approach to assessing the meaning of a PSA reading is to analyze how much antigen is traveling free in the blood and how much is bound to a companion protein, Dr. Scardino suggested. If more than 25 percent of the PSA is free, chances are that it is being produced by a benignly enlarged prostate. The lower the amount of free PSA, the more likely cancer is the cause and the more likely the disease is aggressive, requiring treatment, according to Dr. Patrick C. Walsh, a Johns Hopkins urologist and the author of “Dr. Patrick Walsh’s Guide to Surviving Prostate Cancer.” 
+

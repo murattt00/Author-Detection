@@ -1,0 +1,25 @@
+Last week, regular readers were challenged to an insurance-version puzzle game about a large component of the Stimulus Package Law as it pertains to health insurance COBRA continuation. The intent of the law was simple—to help people pay for their health insurance premiums after they lost their job. How to play was also simple. Given 5 rules, figure out if an employee would qualify under the new law and for how long.
+
+Here are the rules:
+1) The employee must have been involuntarily terminated sometime between September 1st, 2008 and December 31, 2009.
+2) The employer has to subsidize everyone that is eligible for COBRA 65% starting March 1, 2009. (Employers get a credit against payroll taxes).
+3) The subsidy is only payable for nine months.
+4) If a person becomes eligible for other coverage, the subsidy ends (doesn’t matter whether or not they actually take the other coverage).
+5) The actual time frame for them to keep COBRA hasn’t changed (18 months most instances).
+
+Here is the employee’s situation:
+Charlie was fired for poor on-the-job performance on November 10, 2008. COBRA was too expensive, so he didn’t choose to go with it. He is informed of the new law. The questions are:
+
+1) Can Charlie now take COBRA since he didn’t take it when it was offered to him originally ?
+2) If the answer to #1 is yes, is he eligible for the subsidy and if yes, when ?
+3) If the answer to #1 is yes, when would his COBRA end ?
+
+Just like last week, we’re assuming that nobody is making more than $125,000 a year individually or $250,000 for joint filers. 
+
+Tick Tock, Tick Tock.
+
+Have your answers? Let’s see how you did. If you answered "yes" to question 1, you’d be right. Because Charlie was fired, meaning he didn’t leave voluntarily (the exception is being fired for gross negligence), and it happened between September 1, 2008 and December 31, 2009 he is eligible for the subsidy. Even though he was originally eligible for the COBRA December 1st, the subsidy doesn’t start until March 1, 2009, which is also when he could start the coverage. So, Charlie could have his COBRA coverage partially paid for until 9 months later, or until December 1st 2009. So when would his actual coverage end? His coverage would end when it normally would from the point he was initially supposed to go on the COBRA (December 1st 2009) even though he didn’t take it. So it would end 18 months after that date, or June 1, 2010. 
+
+Confused? I hope not. Don’t worry if you are; the government is still scratching it’s head on some things. Fortunately, your HR department should be on top of things. Next week we’ll wrap up this ‘Stimulating Game’ challenge with one more scenario that you won’t see coming. 
+
+Until next time, stay healthy.
