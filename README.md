@@ -4,7 +4,6 @@
 [![NLTK](https://img.shields.io/badge/NLP-NLTK-green.svg)](https://www.nltk.org/)
 [![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-F37626.svg?logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 An end-to-end Natural Language Processing (NLP) and Machine Learning system that identifies authorship of unstructured texts by analyzing linguistic patterns, stylometry, and vocabulary distributions across the **C50 (Reuters-50-50)** benchmark dataset.
 
